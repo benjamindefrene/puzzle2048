@@ -11,7 +11,7 @@ We do not collect any information from you when you use the App. This includes:
 Personal information: We do not collect any personal information from you, such as your name, email address, or phone number.
 Location information: We do not collect your location information.
 Device information: We do not collect any information about your device, such as your device type, operating system, or IP address.
-
+However, the App uses third-party advertising services. These services may collect certain information about your device and online activity to provide targeted advertising within the App. We do not control what information these third-party services collect or how they use it.
 # 3\. How We Use Your Information
 
 We do not use any information that we collect from you.
@@ -44,9 +44,10 @@ The App is available on Google Play. Google Play has its own privacy policy, whi
 
 The App is not directed to children under the age of 13. If you are a parent or guardian of a child under the age of 13, please do not allow your child to use the App.
 
-# 11\. No Ads
+# 11\. Ads
 
-The App does not display any ads.
+The App does display ads provided by Google AdMob.
+These services may collect certain information about your device and online activity to provide targeted advertising within the App. We do not control what information these third-party services collect or how they use it.
 
 # 12\. In\-App Purchases
 
